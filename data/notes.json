@@ -1,0 +1,26 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "name"
+      },
+      {
+        "id": 1,
+        "name": "dob"
+      },
+{
+        "id": 2,
+        "name": "pan_number"
+      },
+{
+        "id": 3,
+        "name": "signature"
+      }
+		
+    ],
+    "info": {
+      "year": 2023,
+      "version": "1.0",
+      "contributor": "Label Studio"
+    }
+  }

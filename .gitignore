@@ -1,0 +1,15 @@
+# runtime artifacts
+__pycache__/
+*.pyc
+trail/
+*.log
+.agent-progress.md
+
+# secrets (never commit)
+.env
+*.env
+keys.env
+
+# local caches that are re-downloaded
+.huggingface/
+.paddlex/data/watchlist.json

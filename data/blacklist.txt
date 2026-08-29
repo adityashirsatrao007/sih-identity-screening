@@ -1,0 +1,2 @@
+# AADHAAR/PAN numbers here are flagged as negative-list hits.
+# Format: one number per line (spaces/hyphens optional). Example (test only):

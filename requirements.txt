@@ -1,0 +1,20 @@
+# core ML
+torch>=2.0
+torchvision
+transformers>=4.40
+huggingface_hub
+numpy
+pillow
+opencv-python
+# face verification (pretrained weights)
+facenet-pytorch
+# OCR (pretrained PP-OCRv6)
+paddleocr>=3.0
+paddlepaddle>=3.0
+# forensics / metadata
+exifread
+# UI
+gradio
+# validation
+matplotlib
+tqdm
